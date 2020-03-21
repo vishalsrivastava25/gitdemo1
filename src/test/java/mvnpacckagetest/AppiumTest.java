@@ -19,4 +19,11 @@ public class AppiumTest {
 	System.out.println("checking for maven appium project");	
 		
 	}
+
+	@Test
+	public void appiumtesingmsg2222()
+	{
+	System.out.println("checking for appium maven rrrrproject");	
+		
+	}
 }
